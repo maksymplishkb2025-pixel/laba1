@@ -13,4 +13,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-    print("А це повідомлення з ДРУГОЇ гілки")
+    print("Код з new2")
